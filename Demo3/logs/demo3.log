@@ -1,0 +1,6 @@
+11.12.2017 11:26:59.792 0 DEBUG    14532 ServiceHelper: Starting service
+11.12.2017 11:26:59.797 0 DEBUG    14532 HttpListener: Listening on port 8080
+11.12.2017 11:26:59.797 1 WARNING  14532 Startup: Service has started
+11.12.2017 11:28:17.844 0 DEBUG    16012 ServiceHelper: Starting service
+11.12.2017 11:28:17.850 0 DEBUG    16012 HttpListener: Listening on port 8080
+11.12.2017 11:28:17.850 1 WARNING  16012 Startup: Service has started
